@@ -1,7 +1,7 @@
 export default function product() {
   return (
       <>
-        ini adalah product
+        gamti text product yang baru
       </>
   )
 }
